@@ -1,10 +1,14 @@
 #include <stdio.h>
+
 /**
- * main - A program that prints a line wtih puts function.
- * Returun: 0
+ * main - A program that prints a line wtih puts function
+ *
+ * Returun: 0 (Success)
  */
-int main(void);
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+     if (puts("Programming is like building a multilingual puzzle)
+	return (0);
+	
 	return (0);
 }
